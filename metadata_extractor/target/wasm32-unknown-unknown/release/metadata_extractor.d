@@ -1,0 +1,1 @@
+/Users/home/Development/Projects/RUST/projects/Article_projects/metadata_extrator_with_frontend/metadata_extractor/target/wasm32-unknown-unknown/release/metadata_extractor.wasm: /Users/home/Development/Projects/RUST/projects/Article_projects/metadata_extrator_with_frontend/metadata_extractor/src/lib.rs
